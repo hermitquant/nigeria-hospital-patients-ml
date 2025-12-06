@@ -130,5 +130,5 @@ This project was developed with assistance from the Windsurf AI coding assistant
 
 ## Insights and Potential Issues
 
-- [Insights](insights.md)
-- [Potential Issues](potential_issues.md)
+- [Insights](reports/insights.md)
+- [Potential Issues](reports/potential_issues.md)
