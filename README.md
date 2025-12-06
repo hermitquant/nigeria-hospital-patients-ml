@@ -128,7 +128,7 @@ This project was developed with assistance from the Windsurf AI coding assistant
   - Exact definitions of Nigerian seasons and arrival-based buckets.
   - Wording and emphasis in `README.md`, `insights.md`, and `potential_issues.md` to align with the personal writing style
 
-## Insights and Potential Issues
+## Reports
 
   Links to insights and potential issues reports
 
