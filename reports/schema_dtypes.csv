@@ -1,0 +1,8 @@
+column,dtype
+patient_id,object
+name,object
+age,int64
+arrival_date,datetime64[ns]
+departure_date,datetime64[ns]
+service,object
+satisfaction,int64

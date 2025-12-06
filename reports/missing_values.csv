@@ -1,0 +1,8 @@
+column,missing_count,missing_pct
+patient_id,0,0.0
+name,0,0.0
+age,0,0.0
+arrival_date,0,0.0
+departure_date,0,0.0
+service,0,0.0
+satisfaction,0,0.0

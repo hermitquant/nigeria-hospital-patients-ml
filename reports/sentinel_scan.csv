@@ -1,0 +1,8 @@
+column,dtype,zero_count,sentinel_unknown,sentinel_unk,sentinel_n/a,sentinel_na,sentinel_none,sentinel_empty,text_sentinel_total
+patient_id,object,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+name,object,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+age,int64,12.0,,,,,,,
+arrival_date,datetime64[ns],,,,,,,,
+departure_date,datetime64[ns],,,,,,,,
+service,object,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+satisfaction,int64,0.0,,,,,,,

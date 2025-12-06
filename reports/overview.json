@@ -1,0 +1,43 @@
+{
+  "shape": {
+    "rows": 1000,
+    "columns": 7
+  },
+  "memory_mb": 0.3,
+  "dtypes": {
+    "patient_id": "object",
+    "name": "object",
+    "age": "int64",
+    "arrival_date": "object",
+    "departure_date": "object",
+    "service": "object",
+    "satisfaction": "int64"
+  },
+  "missing_counts": {
+    "patient_id": 0,
+    "name": 0,
+    "age": 0,
+    "arrival_date": 0,
+    "departure_date": 0,
+    "service": 0,
+    "satisfaction": 0
+  },
+  "missing_pct": {
+    "patient_id": 0.0,
+    "name": 0.0,
+    "age": 0.0,
+    "arrival_date": 0.0,
+    "departure_date": 0.0,
+    "service": 0.0,
+    "satisfaction": 0.0
+  },
+  "n_unique_per_col": {
+    "patient_id": 1000,
+    "name": 1000,
+    "age": 90,
+    "arrival_date": 344,
+    "departure_date": 337,
+    "service": 4,
+    "satisfaction": 40
+  }
+}
